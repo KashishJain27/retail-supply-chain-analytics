@@ -1,21 +1,21 @@
 supplier_id,supplier_name,supplier_location,average_delivery_days,supplier_rating
-S001,"Taylor, Luna and Hart",East Amandamouth,3,5.0
-S002,Armstrong PLC,East Cynthiaberg,10,4.9
-S003,Osborne-Copeland,Casebury,4,3.4
-S004,"Roberts, Simmons and Martin",Thomasland,9,4.6
-S005,"Porter, Moore and Lopez",Williamport,6,4.8
-S006,Miller-Beck,Kingshire,2,3.4
-S007,Neal-Wells,Lake Sarahburgh,9,3.8
-S008,"Phillips, Smith and Ayala",Lake Paul,9,4.4
-S009,"Martin, Berry and Robbins",Cranefurt,2,3.7
-S010,Mason-Gates,West Natalie,12,3.8
-S011,Clark PLC,Wellstown,10,4.2
-S012,"Leon, Armstrong and Lewis",Matthewchester,5,3.1
-S013,Stevens and Sons,Brownton,8,4.4
-S014,Reyes-Zhang,Danielland,11,3.5
-S015,"Morris, French and Lee",Port Stacey,5,3.3
-S016,Carroll-Parrish,West William,4,3.9
-S017,Sullivan-Ramirez,Jacobfurt,4,4.2
-S018,"Greene, Rocha and Ross",Dwaynefort,9,4.6
-S019,"Dixon, Grant and Atkinson",North Caseybury,2,3.6
-S020,Marks Group,Jennifermouth,4,4.6
+S001,Moon-Patterson,Haydenmouth,11,4.3
+S002,"Mendoza, Newman and Greer",North Davidfurt,2,4.5
+S003,Blackwell-Cook,Christopherstad,2,3.3
+S004,Bauer Inc,Phillipsside,8,3.9
+S005,Walker-Mitchell,Mullinsside,12,3.9
+S006,"Dougherty, Williams and Hernandez",Schmidtshire,5,4.2
+S007,Crawford and Sons,Davidbury,3,4.5
+S008,Wallace-Peterson,Smithstad,10,4.5
+S009,"Clark, Buckley and Gibson",Hallville,11,3.5
+S010,Allen-Kim,Tuckerport,5,4.9
+S011,"Solis, Martin and Santos",Weaverland,4,3.1
+S012,"Wilson, Lynch and Hernandez",Lake Jennifer,11,3.3
+S013,Lopez-Clark,South Johnland,3,4.9
+S014,Mays Group,Smithville,7,4.8
+S015,Munoz-Hayes,East Daniel,6,4.5
+S016,Oneal PLC,Erichaven,2,4.0
+S017,Deleon and Sons,Lisashire,4,4.4
+S018,Parker Group,Rogersburgh,6,3.8
+S019,Martinez-Lewis,West Sandra,6,4.5
+S020,Peters Ltd,Jacksontown,9,3.4
