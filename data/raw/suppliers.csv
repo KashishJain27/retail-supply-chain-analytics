@@ -1,0 +1,21 @@
+supplier_id,supplier_name,supplier_location,average_delivery_days,supplier_rating
+S001,"Stewart, Green and Luna",Rachelmouth,7,4.0
+S002,Diaz Ltd,Williamsland,7,3.2
+S003,Sanchez Inc,East Ann,10,3.2
+S004,"Burgess, Morris and Thompson",Lake Shelbystad,4,4.5
+S005,Dalton Ltd,East Jessica,3,4.3
+S006,Stein Group,Rosaleston,9,3.8
+S007,"Miller, Perez and Shaw",North Gregorychester,12,4.8
+S008,"Thomas, Grimes and Williams",Cristianland,8,3.7
+S009,"Williams, Allen and Phillips",West Lisatown,9,3.2
+S010,Sanchez and Sons,Whiteburgh,8,4.1
+S011,Martinez PLC,New Christopherchester,9,4.4
+S012,Deleon-Chavez,Phillipsmouth,12,3.1
+S013,"Johnson, Hernandez and Flores",Lanechester,7,4.4
+S014,Schmidt Ltd,South Patrick,7,4.0
+S015,"Scott, Harris and Herrera",Olsonview,8,4.5
+S016,"Hansen, Brown and Murphy",Mckenziehaven,6,4.6
+S017,Moran PLC,South Oliviamouth,9,4.6
+S018,Lane and Sons,Lake Christinaton,12,4.1
+S019,"Lin, Marquez and Miles",Allenchester,8,3.2
+S020,Tran and Sons,West Darrylville,7,3.2
