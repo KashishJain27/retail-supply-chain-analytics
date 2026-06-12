@@ -1,21 +1,21 @@
 supplier_id,supplier_name,supplier_location,average_delivery_days,supplier_rating
-S001,"Cox, Hart and Vargas",Port Jennifer,11,4.4
-S002,Gallagher-Nelson,Kellyburgh,8,4.1
-S003,Campbell LLC,Haleyborough,2,3.4
-S004,Burns Ltd,Rodriguezfurt,6,3.4
-S005,Dougherty-Lucero,New Harold,8,4.2
-S006,Taylor Group,Lake Linda,10,3.8
-S007,Johnson-Juarez,Alexandraville,10,4.9
-S008,Johnson Inc,East Samantha,12,4.5
-S009,Crawford Inc,North Tarafurt,8,3.9
-S010,"Allen, Hall and Anderson",Maureenview,11,4.3
-S011,Jimenez-Chan,New Brandonhaven,6,4.8
-S012,"Patterson, Kirby and Fitzgerald",South Caroline,12,4.0
-S013,Gilbert-Anderson,Lake Ginaburgh,5,4.1
-S014,"Booth, Martinez and Taylor",Natalieberg,9,4.7
-S015,Torres-Nelson,Angelaborough,3,3.4
-S016,Hernandez Group,West Christianfurt,12,3.7
-S017,Smith Inc,North Suzanne,12,4.1
-S018,"Adams, Wagner and Collins",Reedton,7,3.7
-S019,Young-Richardson,Frankton,2,3.5
-S020,Johnson-Smith,West Jamesview,8,4.1
+S001,"Taylor, Luna and Hart",East Amandamouth,3,5.0
+S002,Armstrong PLC,East Cynthiaberg,10,4.9
+S003,Osborne-Copeland,Casebury,4,3.4
+S004,"Roberts, Simmons and Martin",Thomasland,9,4.6
+S005,"Porter, Moore and Lopez",Williamport,6,4.8
+S006,Miller-Beck,Kingshire,2,3.4
+S007,Neal-Wells,Lake Sarahburgh,9,3.8
+S008,"Phillips, Smith and Ayala",Lake Paul,9,4.4
+S009,"Martin, Berry and Robbins",Cranefurt,2,3.7
+S010,Mason-Gates,West Natalie,12,3.8
+S011,Clark PLC,Wellstown,10,4.2
+S012,"Leon, Armstrong and Lewis",Matthewchester,5,3.1
+S013,Stevens and Sons,Brownton,8,4.4
+S014,Reyes-Zhang,Danielland,11,3.5
+S015,"Morris, French and Lee",Port Stacey,5,3.3
+S016,Carroll-Parrish,West William,4,3.9
+S017,Sullivan-Ramirez,Jacobfurt,4,4.2
+S018,"Greene, Rocha and Ross",Dwaynefort,9,4.6
+S019,"Dixon, Grant and Atkinson",North Caseybury,2,3.6
+S020,Marks Group,Jennifermouth,4,4.6
