@@ -147,11 +147,6 @@ Dashboard Components:
 ---
 
 ## Dashboard Preview
-
-Add dashboard screenshot here.
-
-Example:
-
 ![Dashboard Preview](images/dashboard.png)
 
 ---
