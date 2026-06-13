@@ -64,3 +64,10 @@ plt.xlabel("Category")
 plt.ylabel("Revenue")
 
 plt.show()
+
+orders_df["order_date"] = pd.to_datetime(orders_df["order_date"])
+
+orders_df.to_csv(
+    "data/processed/orders_cleaned.csv",
+    index=False
+)

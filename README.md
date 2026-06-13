@@ -2,7 +2,11 @@
 
 ## Project Overview
 
-This project analyzes retail sales, inventory, supplier performance, and warehouse operations using SQL, Python, and Power BI. The objective is to derive business insights, monitor inventory levels, identify top-performing products and suppliers, and build interactive dashboards for decision-making.
+An end-to-end Retail Supply Chain Analytics project built using Python, SQL, and Power BI. The project simulates a retail supply chain environment, generates transactional data, performs business analysis, and visualizes key insights through interactive dashboards.
+
+The objective is to analyze sales performance, inventory levels, supplier contribution, warehouse operations, and revenue trends to support data-driven business decisions.
+
+---
 
 ## Tech Stack
 
@@ -10,28 +14,74 @@ This project analyzes retail sales, inventory, supplier performance, and warehou
 * Pandas
 * NumPy
 * Faker
+* Matplotlib
 * MySQL
 * Power BI
 * Git & GitHub
+
+---
 
 ## Dataset Information
 
 Synthetic retail supply chain dataset generated using Python.
 
-### Tables
+### Data Volume
 
-* Suppliers (20 records)
-* Products (500 records)
-* Warehouses (5 records)
-* Inventory (1,000 records)
-* Orders (50,000 records)
+| Dataset    | Records |
+| ---------- | ------: |
+| Suppliers  |      20 |
+| Products   |     500 |
+| Warehouses |       5 |
+| Inventory  |   1,000 |
+| Orders     |  50,000 |
+
+---
+
+## Project Structure
+
+```text
+retail-supply-chain-analytics
+│
+├── data
+│   ├── raw
+│   │   ├── suppliers.csv
+│   │   ├── products.csv
+│   │   ├── warehouses.csv
+│   │   ├── inventory.csv
+│   │   └── orders.csv
+│   │
+│   └── processed
+│       └── orders_cleaned.csv
+│
+├── python
+│   ├── generate_dataset.py
+│   └── exploratory_analysis.py
+│
+├── sql
+│   ├── schema.sql
+│   └── analysis_queries.sql
+│
+├── powerbi
+│   └── Retail_Supply_Chain_Analytics.pbix
+│
+├── images
+│   └── dashboard.png
+│
+└── README.md
+```
+
+---
 
 ## Key Business KPIs
 
-* Total Orders: 50,000
-* Total Units Sold: 274,191
-* Total Revenue: ₹91.84M
-* Average Order Value: ₹1,836.30
+| KPI                 |    Value |
+| ------------------- | -------: |
+| Total Revenue       | ₹918.42M |
+| Total Orders        |   50,000 |
+| Units Sold          |  274,191 |
+| Average Order Value |  ₹18.37K |
+
+---
 
 ## SQL Analysis Performed
 
@@ -41,42 +91,85 @@ Synthetic retail supply chain dataset generated using Python.
 * Revenue by Category
 * Revenue by Warehouse
 * Top Suppliers by Product Count
-* Low Stock Product Identification
 * Inventory Valuation
-* Revenue by Supplier
+* Low Stock Product Identification
+* Supplier Performance Analysis
 
-## Project Structure
+---
 
-retail-supply-chain-analytics
+## Python Analysis
 
-* data/
+Performed Exploratory Data Analysis (EDA) using Pandas and Matplotlib:
 
-  * raw/
-* sql/
+* Dataset inspection
+* Missing value analysis
+* Statistical summary
+* Revenue distribution analysis
+* Monthly revenue trend visualization
+* Category-wise revenue analysis
 
-  * schema.sql
-  * analysis_queries.sql
-* python/
+---
 
-  * generate_dataset.py
-* powerbi/
-* README.md
+## Power BI Dashboard
+
+Dashboard Components:
+
+### Executive KPIs
+
+* Total Revenue
+* Total Orders
+* Units Sold
+* Average Order Value
+
+### Sales Analysis
+
+* Monthly Revenue Trend
+* Revenue by Category
+* Top 10 Products by Revenue
+
+### Business Monitoring
+
+* Supplier Performance
+* Product Performance
+* Inventory Analysis
+
+---
 
 ## Key Insights
 
-* Processed and analyzed 50K retail transactions.
-* Identified top-performing products based on revenue.
-* Evaluated supplier contribution and product distribution.
-* Monitored inventory levels and reorder requirements.
-* Generated business KPIs for decision-making.
+* Generated and analyzed 50,000 retail transactions.
+* Electronics emerged as the highest revenue-generating category.
+* National Table was identified as the top-performing product by revenue.
+* Average order value was approximately ₹18.37K.
+* Monthly sales trends were analyzed to monitor revenue performance.
+* Inventory and supplier data were integrated for operational analysis.
+
+---
+
+## Dashboard Preview
+
+Add dashboard screenshot here.
+
+Example:
+
+![Dashboard Preview](images/dashboard.png)
+
+---
 
 ## Future Enhancements
 
-* Power BI Dashboard Development
-* Demand Forecasting using Python
-* Automated ETL Pipeline
-* Inventory Optimization Analysis
 * Sales Forecasting
+* Demand Prediction
+* Automated ETL Pipeline
+* Inventory Optimization
+* Advanced Power BI Reporting
+
+---
 
 ## Author
-Kashish Jain
+
+**Kashish Jain**
+
+BCA Graduate | Aspiring Data Analyst
+
+Skills: SQL, Python, Excel, Power BI, Data Analytics, Data Visualization
